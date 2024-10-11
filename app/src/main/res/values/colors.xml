@@ -1,0 +1,20 @@
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#E74C3C</color> <!-- Merah yang lebih lembut, lebih cocok untuk aksen, dan tidak terlalu mencolok -->
+
+    <!-- Card Background -->
+    <color name="cardBackgroundColor">#F2F4F7</color> <!-- Abu-abu sangat terang, memberi kesan lebih modern daripada putih polos -->
+
+    <!-- Text Colors -->
+    <color name="servantNameColor">#1F2933</color> <!-- Darker Gray Blue, lebih gelap untuk meningkatkan kontras dan keterbacaan -->
+    <color name="classNameColor">#2C3E50</color> <!-- Dark Blue Gray, sedikit lebih gelap untuk menjaga kesan elegan dan tajam -->
+    <color name="descriptionColor">#607D8B</color> <!-- Biru abu-abu yang lebih dalam untuk deskripsi, lebih menarik tanpa mencuri perhatian utama -->
+
+    <!-- Image Background -->
+    <color name="imageBackgroundColor">#E3F2FD</color> <!-- Biru pastel lembut, sedikit lebih sejuk dan netral dibandingkan yang sebelumnya -->
+
+    <!-- Additional Colors -->
+    <color name="primaryTextColor">#1E88E5</color> <!-- Biru yang lebih cerah dan bersih untuk teks utama, menonjol tetapi tetap profesional -->
+    <color name="secondaryTextColor">#B0BEC5</color> <!-- Abu-abu terang yang lebih modern untuk teks sekunder -->
+</resources>

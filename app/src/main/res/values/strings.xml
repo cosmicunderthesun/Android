@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="servant_name">Servant Name</string>
+    <string name="class_name">Class Name</string>
+    <string name="description">Description</string>
+    <string name="about_me">About</string>
+    <string name="my_name">Azra Maulana Restiadi</string>
+    <string name="my_email">zuraganwaifu@gmail.com</string>
+    <string name="share">SHARE</string>
+
+    <string-array name="servants_name_data">
+        <item>Artoria Pendragon</item>
+        <item>Gilgamesh</item>
+        <item>Emiya</item>
+        <item>Morgan Le Fay</item>
+        <item>Melusine</item>
+        <item>Ishtar</item>
+        <item>Erishkigal</item>
+        <item>Kama</item>
+        <item>Achiles</item>
+        <item>Jack the Ripper</item>
+    </string-array>
+
+    <string-array name="class_name_data">
+        <item>Saber</item>
+        <item>Archer</item>
+        <item>Archer</item>
+        <item>Berserker</item>
+        <item>Lancer</item>
+        <item>Archer</item>
+        <item>Lancer</item>
+        <item>Assassin</item>
+        <item>Rider</item>
+        <item>Assassin</item>
+    </string-array>
+
+    <string-array name="servant_photos">
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/3/3e/AF0002.png/revision/latest?cb=20200401130607</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/a/af/AF0012.png/revision/latest?cb=20180428131348</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/8/85/AF0011.png/revision/latest?cb=20180428131340</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/5/5b/S309_AprilFool.webp/revision/latest?cb=20230402083344</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/2/2d/S312_AprilFool.webp/revision/latest?cb=20230402083543</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/d/d0/AF0142.png/revision/latest?cb=20180428123243</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/6e/AF0196.png/revision/latest?cb=20180428123947</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/2/2f/AF0239.png/revision/latest?cb=20200401021037</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/1/19/AF0206.png/revision/latest?cb=20200331232425</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/a/ac/AF0075.png/revision/latest?cb=20180428133724</item>
+    </string-array>
+
+    <string-array name="class_photos">
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/2/20/Class-Saber-Gold.webp/revision/latest?cb=20211223135125</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/4/42/Class-Archer-Gold.webp/revision/latest?cb=20211223135358</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/4/42/Class-Archer-Gold.webp/revision/latest?cb=20211223135358</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/e/e2/Class-Berserker-Gold.webp/revision/latest?cb=20211223135438</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Class-Lancer-Gold.webp/revision/latest?cb=20211223135408</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/4/42/Class-Archer-Gold.webp/revision/latest?cb=20211223135358</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/6a/Class-Lancer-Gold.webp/revision/latest?cb=20211223135408</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/64/Class-Assassin-Gold.webp/revision/latest?cb=20211223135431</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/1/16/Class-Rider-Gold.webp/revision/latest?cb=20211223135415</item>
+        <item>https://static.wikia.nocookie.net/fategrandorder/images/6/64/Class-Assassin-Gold.webp/revision/latest?cb=20211223135431</item>
+
+    </string-array>
+    <string-array name="description_data">
+        <item>Legendary King of Britain, and the King of Knights. Her childhood name was Altria, but she has been known as King Arthur since her coronation. At a time when chivalry was dying like a flower wilting away, she brought momentary peace and the last bit of prosperity to Britain with her sacred sword in hand. In history books Arthur is male, but in this world she is a woman in disguise. An idealistic king who believes a good living and a good life is all anyone needs. Protects the weak, punishes the strong, and is an all around a completely faultless person. Calm and steady, she is always serious and a model human being.</item>
+        <item>Part god, part man, the king that ruled over the city-state of Uruk in Sumeria before the modern calendar. A king not just of legend but of one of mankind\'s oldest tales, "The Epic of Gilgamesh". Gilgamesh is a treasure collector. He often says "I\'ve already collected all the wealth in this world."That is not an overstatement. He has gathered, stored, and sealed away every prototype of every technology known to man. In his own words, "humans are foolish, but the items, and civilizations humans create are of value."</item>
+        <item>As his origin is slightly different than other Heroic Spirits, you cannot call him an official Heroic Spirit. He is a Guardian, and serves as the defensive system for humanity\'s "collective unconsciousness." His very being is humanity\'s Counter Force. He is a faceless enforcer of justice chosen by the nameless. Even though he has been summoned as a Knight of the Bow, when he was alive, he was a mage rather than a bowman. Using his Projection Magecraft, this "Faker" imitated many famed and demonic swords. His main weapon became a bow because he was weaker as a Heroic Spirit, and his combat style ultimately came down to sniping from afar.</item>
+        <item>The queen who rules over the Lostbelt Faerie Britain. She has established an absolute monarchy in Lostbelt Britain, oppressing the fae for over 2,000 years. The highest ranked faerie and a divinely brilliant mage, she bears Rhongomyniad, the Lance of the World\'s End, as a form of magecraft. Old English faerie lore tells of Morgan as a "benevolent faerie of the lake," which was later adapted into Arthurian legends as a villainess opposing King Arthur. On the other hand, she is conflated with the faerie Viviane who bestowed the sacred sword upon King Arthur and guarded him after this death.</item>
+        <item>A member of Faerie Britain\'s Knights of the Round Table. This Tam Lin\'s Spirit Origin was dubbed Lancelot, after the Round Table knight from Proper Human History. She is the lone dragon faerie in Britain. Though she plays the part of a merciless warrior, her bearing, grace, and unique appearance lead many to call her the proudest and most beautiful fae within the Faerie Kingdom. Introverted and active. The type to swiftly carry her out her tasks while keeping her thoughts to herself. A fastidious and businesslike girl knight who gives off a tense air.</item>
+        <item>The Mesopotamian goddess of beauty, fertility, and war. She was said to be the most loved (read: spoiled) by the gods. In this form she has not manifested as the goddess Ishtar, but as a pseudo-Servant with the body of a human with a similar wavelength to her own as a vessel. She says that her role is to watch over humanity, like a goddess should. By this, she means she likes to grin to herself as she watches and say, "Now, is humanity going to survive? Or is it going to go extinct, I wonder?" She truly is the (red) devil of Venus.</item>
+        <item>The goddess of the underworld in Sumerian mythology. She wields a spear-shaped cage, capable of skewering her enemies, trapping souls, and summoning lightning at will. She is the ruler of the underworld, and is to be feared. From the day of her birth, she was entrusted with the governance of the underworld. When the Age of Gods ended, she disappeared without ever knowing the surface world or freedom. In this form, she has manifested not as the goddess Ereshkigal, but as a Pseudo-Servant whose vessel is the soul of a human girl who shared certain characteristics with her. She claims her job is simply to watch over the souls of humans as befits a goddess of the underworld. </item>
+        <item>The god of love in Indian mythology, also called Kamadeva. Originally depicted as a male god. Kama\'s manifestation uses an all too familiar girl as a vessel. This is due in part to that girl\'s peculiarity, and in part to the presence of another goddess who also appeared as a Pseudo-Servant. It is said that this god wielded a bow made of sugarcane that shot arrows decorated with flowers. Anybody hit by the arrow is filled with desire. One of this god\'s most famous legends tells how Kama (under duress) shot Shiva, who was deep in meditation, to force him to recognize his wife\'s love.</item>
+        <item>One of the best-known heroes of Greek myth. He swept through life like a swift wind, but at the same time, he had a manner that made him worthy of being called a hero. His mother once asked him whether he wanted to live an ordinary life of peace and tranquility or die a famed hero. He chose the latter without hesitation. The Achilles tendon is named for the legend of Achilles\'s one and only weakness, as he was otherwise immortal.</item>
+        <item>An internationally-known serial killer. They were called, Jack the Ripper. Jack brutally murdered five women and despite the best efforts of Scotland Yard, Jack vanished without ever being caught. Since Jack the Ripper\'s identity was never found out, their form changes in accordance with the class they are summoned into. As an Assassin, they represent the collective consciousness of those who were never given the chance to be born. </item>
+    </string-array>
+
+</resources>
